@@ -1,4 +1,4 @@
-## Camera shots generator
+## Video generator
 On this subproject after the lung segmentation we generate a video of the lung with our trnsfer function applied.
 
 > You need to execute the [covid-vr-env](https://github.com/covid-vr/covid-vr-docker) to prepare the environment.
